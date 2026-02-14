@@ -1,0 +1,5 @@
+{
+  "name": "Xiangqi (Chinese Chess)",
+  "description": "A fully functional Chinese Chess application featuring rule validation, checkmate detection, and a classic wooden aesthetic.",
+  "requestFramePermissions": []
+}
